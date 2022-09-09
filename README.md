@@ -29,3 +29,6 @@ Python 実践機械学習 System 100本 Knocks の演習
 
 ### 効果検証
 施策の取り組み方だけ見直すこともあれば、Model の制度が実用に耐えられないことで、Model 構築まで立ち戻る場合もある。
+
+### 機械学習の処理 Flow
+![処理の FLow](process_flow.PNG)
